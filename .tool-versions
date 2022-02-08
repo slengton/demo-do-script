@@ -1,2 +1,2 @@
-java adoptopenjdk-17.0.2+8
+java corretto-17.0.2.8.1
 terraform 1.1.5
