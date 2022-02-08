@@ -1,4 +1,4 @@
-#/usr/bin/env bash
+#!/usr/bin/env bash
 
 ## dev-install: Install tools needed for development
 function task_dev_install {
